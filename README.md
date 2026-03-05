@@ -1,3 +1,5 @@
+
+
 # Space Invaders with Custom Controls
 
 This project allows you to play Space Invaders with custom input methods using a WebSocket bridge. The architecture separates the game from the input method, allowing you to control the game using various interfaces including keyboard, scripts, or even computer vision!
